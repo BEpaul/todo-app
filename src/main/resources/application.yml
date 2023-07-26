@@ -1,3 +1,7 @@
+todoapp:
+  site:
+    author: SpringRunner
+
 logging:
   level:
     web: debug
