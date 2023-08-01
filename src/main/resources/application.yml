@@ -1,6 +1,8 @@
 todoapp:
   site:
     author: SpringRunner
+  data:
+    initialize: true
 
 logging:
   level:
