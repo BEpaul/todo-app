@@ -9,3 +9,11 @@ logging:
     web: debug
     sql: debug
 #    '[org.springframework.web]': debug
+
+server:
+  servlet:
+    encoding:
+      charset: utf-8
+      force: true
+#      mapping:
+#        ko: UTF-8
